@@ -1,9 +1,0 @@
-@ST_1060689179
-Feature: Auto test feature
-
-@SC_901200436 @hello
-Scenario: Smoke scenario
-Given test
-And test2
-
-
