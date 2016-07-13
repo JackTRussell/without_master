@@ -4,7 +4,7 @@ Feature: Given in only one scenario
 
 @Critical @Test_1 @SC_442089182
 Scenario: Check scenario
-Given asd
+Given asdqwerty
 And kjsdfhk
 
 
