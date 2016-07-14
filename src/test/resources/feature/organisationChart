@@ -1,7 +1,7 @@
-@Feature_organisationChart @ST_656055045
+@Feature_organisationChart @ST_959424864
 Feature: Organisation tree
 
-@dragAndDrop @dragAndDrop_001 @High @SC_648483696
+@dragAndDrop @dragAndDrop_001 @High @SC_1025429671
 Scenario Outline: Drag And Drop Customer chartitem between branches
 #    And I save structure of "<organisation>" organisation
 #    And I restore structure of "<organisation>" organisation
@@ -29,7 +29,7 @@ Examples:
 
 
 
-@dragAndDrop @dragAndDrop_002 @High @SC_676773047
+@dragAndDrop @dragAndDrop_002 @High @SC_1008765324
 Scenario Outline: Drag And Drop Airport chartitem between branches
 Given I`m on Organisation Chart page
 And I select "<organisation>" from Select Organistion DropDown
