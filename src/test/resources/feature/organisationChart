@@ -1,7 +1,7 @@
-@Feature_organisationChart @ST_580813504
+@Feature_organisationChart @ST_971575521
 Feature: Organisation tree
 
-@dragAndDrop @dragAndDrop_001 @High @SC_653382975
+@dragAndDrop @dragAndDrop_001 @High @SC_948588917
 Scenario Outline: Drag And Drop Customer chartitem between branches
 #    And I save structure of "<organisation>" organisation
 #    And I restore structure of "<organisation>" organisation
