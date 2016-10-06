@@ -9,9 +9,9 @@ Given some bg with changes
 @thirdscenariotag @SC_771727982
 Scenario: First scenario
 Some description
+#changed
 Given I created scenario
 Then I see it in Relime
-#changed
 
 @SC_772659065
 Scenario: Next scenario
