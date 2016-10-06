@@ -19,9 +19,3 @@ Some description
 Given I created scenario
 Then I see it in Relime
 
-@SC_205373565
-Scenario: Next scenario
-Some description
-Given I created scenario
-Then I see it in Relime
-
