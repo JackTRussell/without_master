@@ -1,4 +1,4 @@
-@ST_166499200 @tagtagtag @first-tag
+@tagtagtag @first-tag @ST_166499200
 Feature: Some feature name
 There is some description
 
@@ -16,13 +16,6 @@ Then I see it in Relime
 @SC_95806631
 Scenario: Next scenario
 Some description
-Given I created scenario
-Then I see it in Relime
-
-@thirdscenariotag @SC_213497368
-Scenario: First scenario
-Some description
-#changed
 Given I created scenario
 Then I see it in Relime
 
