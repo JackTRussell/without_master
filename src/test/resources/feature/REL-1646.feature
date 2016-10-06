@@ -13,3 +13,9 @@ Given I created scenario
 Then I see it in Relime
 #changed
 
+@SC_310358620
+Scenario: Next scenario
+Some description
+Given I created scenario
+Then I see it in Relime
+
