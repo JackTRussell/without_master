@@ -1,4 +1,4 @@
-@tagtagtag @this_is_story_tag @ST_1046325981
+@ST_1046325981 @tagtagtag @this_is_story_tag
 Feature: New Feature name
 There is feature description
 Lorem ipsum dolor sit amet, mea dico volumus copiosae cu, debet movet doctus ex nec, at adipisci interpretaris usu. Has feugiat ponderum te. Pri nisl case id, te est diam sint regione, in alii philosophia sit. Ius ancillae voluptaria cu. Ut eam dicta partiendo.
