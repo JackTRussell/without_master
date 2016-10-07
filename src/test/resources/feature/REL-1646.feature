@@ -1,4 +1,4 @@
-@tagtagtag @first-tag @ST_166499200
+@ST_166499200 @tagtagtag @first-tag
 Feature: Some feature name
 There is some description
 
@@ -6,7 +6,7 @@ Background:
 Background description with changes
 Given some bg with changes
 
-@SC_148297001 @thirdscenariotag
+@thirdscenariotag @SC_148297001
 Scenario: First scenario
 Some description
 Given I created scenario
