@@ -1,4 +1,4 @@
-@tagtagtag @this_is_story_tag @ST_403220058
+@ST_403220058 @tagtagtag @this_is_story_tag
 Feature: New Feature name
 There is feature description
 Lorem ipsum dolor sit amet, mea dico volumus copiosae cu, debet movet doctus ex nec, at 
