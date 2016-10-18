@@ -33,3 +33,9 @@ In mei quis persius accumsan. Duo dicunt eloquentiam ut, pri eu simul facete cau
 In mea tibique appetere perfecto, in iudico maluisset maiestatis usu. Augue discere menandri has ut, omnes nonumes at vis, quo ne malorum accusamus. Vim exerci luptatum contentiones ad, ei veniam everti virtute usu, pri iuvaret equidem no. Eum at odio numquam repudiare, qui in natum iisque, cu quaeque scriptorem cum. Eam sale utroque volutpat in, in sea sanctus aliquando.
 Given I created scenario
 Then I see it in Relime
+
+@SC_38498 @fourth_scenario_tag
+Scenario: Fourth scenario
+Some description
+Given I created scenario
+Then I see it in Relime
