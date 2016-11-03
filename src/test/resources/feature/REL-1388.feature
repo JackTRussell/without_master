@@ -188,32 +188,6 @@ Then I don't see updates in GIT
 And I don't see updates in Jira
 And I see tab Feature Management is unavailable
 
-@SC_58658
-Scenario Outline: saving scenario data to TTS with Direct mode
-Given I'm logged in as <user>
-And Direct mode is selected
-And I'm on page Editor
-When I created new scenario
-And I clicked on button 'Save'
-Then I see scenario in Jira
-When I added steps to scenario
-And I clicked on button 'Save'
-Then I see changed scenario in Jira
-When I added tags to scenario
-And I click on button 'Save'
-Then I see changes is Jira
-When I added description
-And I clicked on button 'Save'
-Then I see changes in Jira
-When I added example table to scenario
-And I clicked on button 'Save'
-Then I see changes in Jira
-
-Examples: 
-|user|
-|DO|
-|PM|
-
 @SC_58659
 Scenario Outline: Requiring Confirmation mode
 Given I'm logged in as <user>
