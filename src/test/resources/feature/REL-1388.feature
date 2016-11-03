@@ -188,19 +188,6 @@ Then I don't see updates in GIT
 And I don't see updates in Jira
 And I see tab Feature Management is unavailable
 
-@SC_58653
-Scenario Outline: Saving mode item on Project Settings page
-Given I'm logged in as <user>
-When I'm on page Project Settings
-Then I see item 'Saving mode' under all items
-And mode 'Direct' is selected by default
-
-Examples: 
-|user|
-|DO|
-|PM|
-|TM|
-
 @SC_58654
 Scenario Outline: Control to choose saving mode
 Given I'm logged in as <user>
