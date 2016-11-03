@@ -188,19 +188,6 @@ Then I don't see updates in GIT
 And I don't see updates in Jira
 And I see tab Feature Management is unavailable
 
-@SC_58654
-Scenario Outline: Control to choose saving mode
-Given I'm logged in as <user>
-And I'm on page Project Settings
-When I click on Saving mode control
-Then I see <action>
-
-Examples: 
-|user|action|
-|DO|dropdown is expanded|
-|PM|dropdown is expanded|
-|TM|control is unclickable|
-
 @SC_58655
 Scenario Outline: Saving mode tooltips
 Given I’m logged as <user>
