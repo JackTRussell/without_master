@@ -188,33 +188,6 @@ Then I don't see updates in GIT
 And I don't see updates in Jira
 And I see tab Feature Management is unavailable
 
-@SC_58657
-Scenario Outline: Saving scenario data to VCS with Direct mode
-Given I'm logged in as <user>
-And Direct mode is selected
-And I'm on page Editor
-When I created new scenario
-And I clicked on button 'Save'
-Then I see scenario in GIT
-When I added steps to scenario
-And I clicked on button 'Save'
-Then I see changed scenario in GIT
-When I added tags to scenario
-And I click on button 'Save'
-Then I see changes is GIT
-When I added description
-And I clicked on button 'Save'
-Then I see changes in GIT
-When I added example table to scenario
-And I clicked on button 'Save'
-Then I see changes in GIT
-
-Examples: 
-|user|
-|DO|
-|PM|
-|TM|
-
 @SC_58658
 Scenario Outline: saving scenario data to TTS with Direct mode
 Given I'm logged in as <user>
