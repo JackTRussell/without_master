@@ -1,7 +1,7 @@
-@ST_13761 @dsfsdf
+@ST_46274 @dsfsdf
 Feature: fdsdfs
 
-@SC_59881 @vvv @Given-fff
+@SC_224387 @vvv @Given-fff
 Scenario: bbvbbv
 Given ddd
 And fff
