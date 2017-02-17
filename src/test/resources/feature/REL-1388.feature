@@ -1,6 +1,10 @@
 @ST_46275
 Feature: Saving mode
 
+Background: 
+
+Given there is BG
+
 @SC_224388
 Scenario Outline: Direct mode for TTS
 Given I’m logged in as <user>
