@@ -3,7 +3,7 @@ Feature: Saving mode
 
 Background: 
 
-Given there is BG
+Given there is BGghjbhn
 
 @SC_252499
 Scenario Outline: Direct mode for TTS
@@ -29,6 +29,7 @@ Examples:
 |DO|
 |PM|
 |TM|
+
 
 @SC_252500
 Scenario Outline: Saving mode item on Project Settings page
