@@ -3,7 +3,7 @@ Feature: Saving mode
 
 Background: 
 
-Given there is BG
+Given there is BGfvgbhjnk
 
 @SC_252499
 Scenario Outline: Direct mode for TTS
