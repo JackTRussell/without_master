@@ -21,7 +21,7 @@ And I clicked on confirmation button
 Then I see changes in Jira
 When I changed feature description
 And I clicked on confirmation button
-Then I see changes in Jira
+Then I see changes in Jirafhgkjh
 #comment
 
 Examples: 
@@ -29,7 +29,6 @@ Examples:
 |DO|
 |PM|
 |TM|
-
 
 @SC_252500
 Scenario Outline: Saving mode item on Project Settings page
