@@ -30,7 +30,6 @@ Examples:
 |PM|
 |TM|
 
-
 @SC_252500
 Scenario Outline: Saving mode item on Project Settings page
 Given I'm logged in as <user>
