@@ -1,6 +1,11 @@
 @ST_84437
 Feature: 
 
+Background: 
+
+Given i want do smth with "[string]"
+And the boss increases the salary for the employee with id [number] by [number]%
+
 @SC_316801
 Scenario: 
 Given the salary management system is initialized with the following data
